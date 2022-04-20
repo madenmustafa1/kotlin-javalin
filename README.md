@@ -1,3 +1,3 @@
-# kotlin-javalin
+kotlin-javalin
 
 ## Kotlin - Server side
